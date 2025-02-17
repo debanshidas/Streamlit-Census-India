@@ -1,4 +1,7 @@
 import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 # Set dark theme
 st.set_page_config(page_title="Indian Population Dashboard", layout="wide", initial_sidebar_state="expanded")
 
